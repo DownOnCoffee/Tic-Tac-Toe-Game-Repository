@@ -1,5 +1,5 @@
 import { useState,useEffect } from "react";
-
+import 'styles.css';
 
 function Square({ value, squareclick }) {
   return (
